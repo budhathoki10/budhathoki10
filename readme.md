@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack developer with Mern | Intermediate in backend | Student<br> 
+Always a student never a master<br> 
 
 
 ## 🌐 Socials:
