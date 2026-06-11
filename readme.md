@@ -2,9 +2,6 @@
 Always a student never a master<br> 
 
 
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-budhathoki-88a402321/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:budhathokikushal170@gmail.com) 
 
