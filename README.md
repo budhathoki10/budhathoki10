@@ -28,59 +28,6 @@ I'm a final-year **Computer Science / AI** student at Herald College Kathmandu (
 
 ---
 
-### 🚀 Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🛡️ [PRSentryAI](https://github.com/budhathoki10/Code-Review)
-AI pull-request reviewer, shipped as a **GitHub App**. It reviews PR diffs with a multi-pass LLM pipeline and posts findings as `prsentryai[bot]`. A dashboard groups findings by severity.
-
-`Next.js` `TypeScript` `BullMQ` `Redis` `Octokit` `LLMs`
-
-[**Live →**](https://codereview.kushalbudhathoki.com.np)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📄 [Shortlist](https://github.com/budhathoki10/ShortList)
-Tailors your CV and cover letter to each job posting using **only facts from your CV**. Includes fit scoring, interview prep, an application tracker and Job Radar.
-
-`Next.js 16` `MongoDB` `Claude API` `Freemius` `Web Push`
-
-[**Live →**](https://jobshortlist.kushalbudhathoki.com.np)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌍 [LingoBridge](https://github.com/budhathoki10/LingoBridge)
-Chrome extension for instant translation in **100+ languages**, right inside the page you're reading.
-
-`Chrome Extension` `JavaScript` `Netlify` `Cloudflare`
-
-[**Live →**](https://lingobridge.kushalbudhathoki.com.np)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔎 [PainScout](https://github.com/budhathoki10/PainScout)
-Social-listening tool that finds real user pain points on **Bluesky** through the AT Protocol and sends them as email digests on a schedule.
-
-`AT Protocol` `MongoDB` `Resend` `Cron`
-
-[**Live →**](https://painscout.kushalbudhathoki.com.np)
-
-</td>
-</tr>
-</table>
-
-> Also built **[AutoPilot](https://github.com/budhathoki10/SocialMediaPlatform)**, a social media automation dashboard. It turns GitHub activity into LinkedIn post drafts with a BullMQ pipeline and handles Instagram DMs and comments through an AI draft-and-approve inbox with confidence scoring.
-
----
-
 ### 🛠️ Tech stack
 
 **Languages**<br>
