@@ -77,7 +77,7 @@ Social-listening tool that finds real user pain points on **Bluesky** through th
 </tr>
 </table>
 
-> Also built **AutoPilot**, an Instagram DM automation SaaS with Meta Graph API webhooks, Freemius subscriptions verified by HMAC-signed webhooks, and BullMQ + Upstash Redis queues.
+> Also built **[AutoPilot](https://github.com/budhathoki10/SocialMediaPlatform)**, a social media automation dashboard. It turns GitHub activity into LinkedIn post drafts with a BullMQ pipeline and handles Instagram DMs and comments through an AI draft-and-approve inbox with confidence scoring.
 
 ---
 
