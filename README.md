@@ -94,17 +94,6 @@ Social-listening tool that finds real user pain points on **Bluesky** through th
 
 ---
 
-### 📊 GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=budhathoki10&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=budhathoki10&layout=compact&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9&langs_count=6" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=budhathoki10&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
-</div>
-
----
-
 <div align="center">
 
 **Hiring for an internship? I'd love to talk.** [Get in touch →](mailto:budhathokikushal170@gmail.com)
