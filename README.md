@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Kushal%20Budhathoki&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20I%20build%20and%20ship%20production%20SaaS&descSize=16&descAlignY=58" width="100%" alt="Kushal Budhathoki" />
 
 <a href="https://kushalbudhathoki.com.np">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;AI-powered+products%2C+shipped+end-to-end;Billing%2C+OAuth%2C+webhooks%2C+queues%2C+deployment;Open+to+backend+%2F+frontend+%2F+full-stack+internships" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=760&lines=Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;AI-powered+products%2C+shipped+end-to-end;Billing%2C+OAuth%2C+webhooks%2C+queues%2C+deployment;Open+to+full-stack+internships" alt="Typing intro" />
 </a>
 
 <p>
@@ -17,18 +17,18 @@
 
 ---
 
-### 👋 About me
+### About me
 
 I'm a final-year **Computer Science / AI** student at Herald College Kathmandu (University of Wolverhampton). I don't build tutorial projects. I build real products and run them in production myself, with subscription billing, OAuth, webhooks, background job queues, custom domains and deployment from day one.
 
-- 🔭 **Building:** AI developer tools and automation SaaS
-- 🎯 **Looking for:** a backend, frontend or full-stack **internship**
-- 🧠 **Interested in:** LLM pipelines, multi-agent systems, GitHub Apps, distributed job processing
-- 📚 **Reading:** *Designing Data-Intensive Applications*, *Clean Code*
+- **Building:** AI developer tools and automation SaaS
+- **Looking for:** a backend, frontend or full-stack **internship**
+- **Interested in:** LLM pipelines, multi-agent systems, GitHub Apps, distributed job processing
+- **Reading:** *Designing Data-Intensive Applications*, *Clean Code*
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 **Languages**<br>
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,php,html,css&theme=dark" alt="Languages" />
