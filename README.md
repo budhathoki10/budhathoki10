@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Kushal%20Budhathoki&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20I%20build%20and%20ship%20production%20SaaS&descSize=16&descAlignY=58" width="100%" alt="Kushal Budhathoki" />
 
 <a href="https://kushalbudhathoki.com.np">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=760&lines=Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;AI-powered+products%2C+shipped+end-to-end;Open+to+full-stack+internships" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=760&lines=Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;AI-powered+products%2C+shipped+end-to-end" alt="Typing intro" />
 </a>
 
 <p>
