@@ -22,7 +22,6 @@
 I'm a final-year **Computer Science / AI** student at Herald College Kathmandu (University of Wolverhampton). I don't build tutorial projects. I build real products and run them in production myself, with subscription billing, OAuth, webhooks, background job queues, custom domains and deployment from day one.
 
 - **Building:** AI developer tools and automation SaaS
-- **Looking for:** a backend, frontend or full-stack **internship**
 - **Interested in:** LLM pipelines, multi-agent systems, GitHub Apps, distributed job processing
 - **Reading:** *Designing Data-Intensive Applications*, *Clean Code*
 
