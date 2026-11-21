@@ -39,11 +39,3 @@ I'm a final-year **Computer Science / AI** student at Herald College Kathmandu (
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,prisma,docker,aws,vercel,netlify,cloudflare,git,github,githubactions&theme=dark" alt="Infra" />
 
 ---
-
-<div align="center">
-
-**Hiring for an internship? I'd love to talk.** [Get in touch →](mailto:budhathokikushal170@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />
-
-</div>
